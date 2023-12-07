@@ -1,5 +1,9 @@
 <div align="center">
 <h1>Nicole Beani</h1>
+   <a href="https://www.linkedin.com/in/nicole-beani-webdeveloper/">
+      <img src="https://img.shields.io/badge/LinkedIn-yellow?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  <hr>
 <h3>Junior Full-Stack Developer 💻</h3>
   <p>Sono una appassionata del mondo IT e mi etusiasma trovare soluzioni creative, crescere professionalmente e collaborare con gli altri appassionati del settore.  </p>
   <p>Le mie competenze includono diverse tecnologie e linguaggi, come HTML, CSS, Canva, WordPress, Picsart, PhpMyAdmin, JavaScript, TypeScript, Angular, Bootstrap, ASP.NET MVC, ASP.NET WebForms, Sass, SQL Server, C#, DOM e OOP.</p>
