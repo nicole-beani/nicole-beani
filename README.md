@@ -1,15 +1,14 @@
+![Banner Image](https://github.com/nicole-beani/assets/blob/main/NicoleBeaniIMG.jpg)
+
 <div align="center">
-<h1>Nicole Beani</h1>
-   <a href="https://www.linkedin.com/in/nicole-beani-webdeveloper/">
-      <img src="https://img.shields.io/badge/LinkedIn-yellow?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-  <hr>
-<h3>Junior Full-Stack Developer 💻</h3>
   <p>Sono una appassionata del mondo IT e mi etusiasma trovare soluzioni creative, crescere professionalmente e collaborare con gli altri appassionati del settore.  </p>
   <p>Le mie competenze includono diverse tecnologie e linguaggi, come HTML, CSS, Canva, WordPress, Picsart, PhpMyAdmin, JavaScript, TypeScript, Angular, Bootstrap, ASP.NET MVC, ASP.NET WebForms, Sass, SQL Server, C#, DOM e OOP.</p>
   <p>
     Di recente, ho completato con successo un corso di sviluppo Full-Stack, ottenendo la relativa certificazione.
   </p>
+   <a href="https://www.linkedin.com/in/nicole-beani-webdeveloper/">
+      <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
   <h2>DIGITAL SKILLS 👩🏻‍💻</h2>
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html5" alt="hmlt" width="40" height="40"/>&nbsp;
